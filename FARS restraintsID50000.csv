@@ -1,4 +1,4 @@
-_id,farsid,caseid,state,age,airbag,injury,restraint,sex,inimpact,modelyr,airbagAvail,airbagDeploy,Restraints,D_injury,D_airbagAvail,D_airbagDeploy,D_Restraint,year
+ID,farsid,caseid,state,age,airbag,injury,restraint,sex,inimpact,modelyr,airbagAvail,airbagDeploy,Restraints,D_injury,D_airbagAvail,D_airbagDeploy,D_Restraint,year
 401159,1998.3,01:01:02,1,20,30,3,1,2,12,1991,no,no,yes,3,no,no,yes,1998
 401160,1998.5,01:02:01,1,41,30,2,0,1,2,1987,no,no,no,2,no,no,no,1998
 401161,1998.7,01:03:01,1,26,30,3,0,1,4,1983,no,no,no,4,no,no,no,1998
