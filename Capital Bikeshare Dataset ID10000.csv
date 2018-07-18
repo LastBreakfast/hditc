@@ -1,4 +1,4 @@
-BikeID,Duration,Start date,End date,Start station number,,End station number,End station,Bike number,Member type
+BikeID,Duration,Start date,End date,Start station number,Start_station,End station number,End station,Bike number,Member type
 518591,552,01/01/2018 00:05,01/01/2018 00:14,31104,Adams Mill & Columbia Rd NW,31400,Georgia & New Hampshire Ave NW,W00886,Member
 518592,1282,01/01/2018 00:14,01/01/2018 00:35,31321,15th St & Constitution Ave NW,31321,15th St & Constitution Ave NW,W01435,Casual
 518593,1265,01/01/2018 00:14,01/01/2018 00:35,31321,15th St & Constitution Ave NW,31321,15th St & Constitution Ave NW,W21242,Casual
